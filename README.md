@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Evercam<br><br>🌱 I’m currently learning FastAPI<br><br>💬 Ask me about Mobile dev<br><br>📫 How to reach me https://www.linkedin.com/in/akram-houalef-a85771232/
+🔭 I’m currently working at Evercam<br><br>🌱 I’m currently learning FastAPI<br><br>💬 Ask me about Flutter<br><br>📫 How to reach me https://www.linkedin.com/in/akram-houalef-a85771232/
 
 
 ## 🌐 Socials:
